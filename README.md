@@ -24,6 +24,10 @@ To download the entire repository: from the repository's main page you will see 
 
 To download individual files: browse to the file you want to download and click the "_Raw_" button. Then press CMD/Ctrl+S to save the file from your browser. If the file type isn’t a text or code file, one that GitHub lets you edit online, then you may see a Download button on the file instead. Click it to save the file to your computer. Typically PDFs show with download buttons in GitHub.
 
+**Citing this repository**
+
+![image](https://user-images.githubusercontent.com/90630499/134990202-ec67032b-a60b-4daf-bd0a-108bd41f2695.png)
+
 **Access to FUSARIUM-ID online BLAST server**
 
 To access the FUSARIUM-ID online BLAST server go to: http://isolate.fusariumdb.org/
