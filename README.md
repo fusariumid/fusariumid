@@ -1,4 +1,4 @@
-### This is the FUSARIUM-ID repository for fasta files. 
+### FUSARIUM-ID repository for fasta files
 
 The repository currently contains a fasta file that compiles 1,107 translation elongation factor 1 alpha (TEF1) sequences representative of the genus _Fusarium_, with metadata associated to each sequence. BLASTing against this file can be used for identification purposes. Fasta files for additional marker loci (e.g. RPB1, RPB2, ITS) will be added in the near future.  
 
