@@ -28,7 +28,7 @@ To download individual BLAST tutorial files: browse to the file you want to down
 
 **Citing this version of FUSARIUM-ID and the BLAST tutorials**
 
-v.3.0 ![image](https://user-images.githubusercontent.com/90630499/135128521-70a413c2-11f2-496e-be38-d2373abeb8dc.png)
+v.3.0 <a href="https://zenodo.org/badge/latestdoi/406006019"><img src="https://zenodo.org/badge/406006019.svg" alt="DOI"></a>
 
 **Access to FUSARIUM-ID online BLAST server**
 
