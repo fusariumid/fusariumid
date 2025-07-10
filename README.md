@@ -1,8 +1,8 @@
 ### FUSARIUM-ID repository for fasta files
 
-The repository currently contains a fasta file that compiles 1,107 translation elongation factor 1 alpha (TEF1) sequences representative of the genus _Fusarium_, with metadata associated to each sequence. BLASTing against this file can be used for identification purposes. Fasta files for additional marker loci (e.g. RPB1, RPB2, ITS) will be added in the near future.  
+The repository currently contains a fasta file that compiles 1,154 translation elongation factor 1 alpha (TEF1) sequences representative of the genus _Fusarium_ (v.3.0.1), with metadata associated to each sequence. BLASTing against this file can be used for identification purposes. Fasta files for additional marker loci (e.g. RPB1, RPB2, ITS) will be added in the near future.  
 
-The current version is FUSARIUM-ID v.3.0, which provides the following improvements: 
+The current version is FUSARIUM-ID v.3.0.1, which provides the following improvements: 
 
   (1) additional and updated annotation of metadata for isolates associated with each sequence 
 
@@ -29,6 +29,8 @@ To download individual BLAST tutorial files: browse to the file you want to down
 **Citing this version of FUSARIUM-ID and the BLAST tutorials**
 
 v.3.0 <a href="https://zenodo.org/badge/latestdoi/406006019"><img src="https://zenodo.org/badge/406006019.svg" alt="DOI"></a>
+
+v.3.0.1 
 
 **Access to FUSARIUM-ID online BLAST server**
 
